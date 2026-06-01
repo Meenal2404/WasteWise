@@ -1,0 +1,1081 @@
+date,area,waste_type,quantity_kg,collection_done,complaints,month,day_of_week,month_num
+2025-01-01,Arera Colony,Wet,61.25,No,3,January,Wednesday,1
+2025-01-01,Shahpura,Dry,112.79,Yes,10,January,Wednesday,1
+2025-01-01,TT Nagar,Wet,315.72,Yes,0,January,Wednesday,1
+2025-01-01,Kolar Road,Wet,148.39,Yes,8,January,Wednesday,1
+2025-01-01,Bairagarh,Dry,372.21,No,3,January,Wednesday,1
+2025-01-01,Govindpura,Construction,315.17,Yes,2,January,Wednesday,1
+2025-01-02,Arera Colony,Construction,203.11,Yes,3,January,Thursday,1
+2025-01-02,Shahpura,Medical,95.99,No,1,January,Thursday,1
+2025-01-02,TT Nagar,Medical,431.37,No,0,January,Thursday,1
+2025-01-02,Kolar Road,Construction,291.3,No,1,January,Thursday,1
+2025-01-02,Bairagarh,Medical,423.23,No,9,January,Thursday,1
+2025-01-02,Govindpura,Dry,367.06,Yes,10,January,Thursday,1
+2025-01-03,Arera Colony,Dry,397.88,Yes,3,January,Friday,1
+2025-01-03,Shahpura,Wet,221.06,No,10,January,Friday,1
+2025-01-03,TT Nagar,Medical,123.19,No,3,January,Friday,1
+2025-01-03,Kolar Road,Medical,365.82,Yes,9,January,Friday,1
+2025-01-03,Bairagarh,Dry,290.36,Yes,2,January,Friday,1
+2025-01-03,Govindpura,Construction,220.75,Yes,10,January,Friday,1
+2025-01-04,Arera Colony,Medical,429.28,Yes,3,January,Saturday,1
+2025-01-04,Shahpura,Wet,412.27,No,4,January,Saturday,1
+2025-01-04,TT Nagar,Wet,144.94,No,3,January,Saturday,1
+2025-01-04,Kolar Road,Construction,228.03,No,2,January,Saturday,1
+2025-01-04,Bairagarh,Medical,112.83,No,9,January,Saturday,1
+2025-01-04,Govindpura,Construction,454.02,No,5,January,Saturday,1
+2025-01-05,Arera Colony,Dry,498.8,Yes,8,January,Sunday,1
+2025-01-05,Shahpura,Construction,90.91,Yes,1,January,Sunday,1
+2025-01-05,TT Nagar,Dry,332.35,No,9,January,Sunday,1
+2025-01-05,Kolar Road,Wet,223.15,No,8,January,Sunday,1
+2025-01-05,Bairagarh,Medical,486.99,Yes,10,January,Sunday,1
+2025-01-05,Govindpura,Wet,356.77,No,10,January,Sunday,1
+2025-01-06,Arera Colony,Medical,100.2,No,2,January,Monday,1
+2025-01-06,Shahpura,Construction,51.46,No,8,January,Monday,1
+2025-01-06,TT Nagar,Dry,278.46,Yes,10,January,Monday,1
+2025-01-06,Kolar Road,Medical,428.75,Yes,2,January,Monday,1
+2025-01-06,Bairagarh,Medical,393.13,Yes,9,January,Monday,1
+2025-01-06,Govindpura,Medical,269.87,Yes,5,January,Monday,1
+2025-01-07,Arera Colony,Medical,157.75,Yes,9,January,Tuesday,1
+2025-01-07,Shahpura,Wet,88.54,No,1,January,Tuesday,1
+2025-01-07,TT Nagar,Dry,107.78,No,8,January,Tuesday,1
+2025-01-07,Kolar Road,Dry,169.28,No,3,January,Tuesday,1
+2025-01-07,Bairagarh,Dry,370.83,No,10,January,Tuesday,1
+2025-01-07,Govindpura,Medical,247.15,No,1,January,Tuesday,1
+2025-01-08,Arera Colony,Dry,151.11,No,0,January,Wednesday,1
+2025-01-08,Shahpura,Dry,314.8,Yes,1,January,Wednesday,1
+2025-01-08,TT Nagar,Wet,153.02,Yes,5,January,Wednesday,1
+2025-01-08,Kolar Road,Wet,281.37,No,10,January,Wednesday,1
+2025-01-08,Bairagarh,Construction,146.41,Yes,9,January,Wednesday,1
+2025-01-08,Govindpura,Construction,159.35,No,6,January,Wednesday,1
+2025-01-09,Arera Colony,Dry,92.45,No,5,January,Thursday,1
+2025-01-09,Shahpura,Construction,235.0,Yes,10,January,Thursday,1
+2025-01-09,TT Nagar,Wet,77.28,No,1,January,Thursday,1
+2025-01-09,Kolar Road,Dry,136.22,No,2,January,Thursday,1
+2025-01-09,Bairagarh,Construction,132.57,No,3,January,Thursday,1
+2025-01-09,Govindpura,Wet,249.41,Yes,0,January,Thursday,1
+2025-01-10,Arera Colony,Wet,486.05,Yes,2,January,Friday,1
+2025-01-10,Shahpura,Construction,268.54,Yes,6,January,Friday,1
+2025-01-10,TT Nagar,Wet,124.09,Yes,6,January,Friday,1
+2025-01-10,Kolar Road,Medical,466.93,No,4,January,Friday,1
+2025-01-10,Bairagarh,Construction,363.47,No,2,January,Friday,1
+2025-01-10,Govindpura,Dry,183.52,Yes,9,January,Friday,1
+2025-01-11,Arera Colony,Wet,386.59,Yes,0,January,Saturday,1
+2025-01-11,Shahpura,Construction,276.28,Yes,0,January,Saturday,1
+2025-01-11,TT Nagar,Wet,433.1,Yes,9,January,Saturday,1
+2025-01-11,Kolar Road,Wet,353.85,Yes,6,January,Saturday,1
+2025-01-11,Bairagarh,Wet,473.72,Yes,9,January,Saturday,1
+2025-01-11,Govindpura,Wet,328.72,No,10,January,Saturday,1
+2025-01-12,Arera Colony,Medical,470.62,Yes,10,January,Sunday,1
+2025-01-12,Shahpura,Medical,157.41,No,2,January,Sunday,1
+2025-01-12,TT Nagar,Medical,255.75,Yes,0,January,Sunday,1
+2025-01-12,Kolar Road,Construction,329.52,Yes,1,January,Sunday,1
+2025-01-12,Bairagarh,Dry,277.65,Yes,5,January,Sunday,1
+2025-01-12,Govindpura,Wet,445.67,No,4,January,Sunday,1
+2025-01-13,Arera Colony,Dry,247.18,No,9,January,Monday,1
+2025-01-13,Shahpura,Wet,350.54,No,10,January,Monday,1
+2025-01-13,TT Nagar,Wet,472.52,Yes,4,January,Monday,1
+2025-01-13,Kolar Road,Wet,450.37,Yes,4,January,Monday,1
+2025-01-13,Bairagarh,Medical,322.17,No,3,January,Monday,1
+2025-01-13,Govindpura,Medical,277.43,No,0,January,Monday,1
+2025-01-14,Arera Colony,Wet,335.43,No,0,January,Tuesday,1
+2025-01-14,Shahpura,Wet,200.1,Yes,10,January,Tuesday,1
+2025-01-14,TT Nagar,Medical,122.71,No,8,January,Tuesday,1
+2025-01-14,Kolar Road,Construction,302.41,Yes,1,January,Tuesday,1
+2025-01-14,Bairagarh,Dry,295.52,No,9,January,Tuesday,1
+2025-01-14,Govindpura,Dry,243.4,Yes,4,January,Tuesday,1
+2025-01-15,Arera Colony,Medical,454.54,Yes,5,January,Wednesday,1
+2025-01-15,Shahpura,Dry,356.93,Yes,5,January,Wednesday,1
+2025-01-15,TT Nagar,Construction,488.23,Yes,3,January,Wednesday,1
+2025-01-15,Kolar Road,Dry,489.29,Yes,6,January,Wednesday,1
+2025-01-15,Bairagarh,Wet,130.71,No,6,January,Wednesday,1
+2025-01-15,Govindpura,Dry,170.06,Yes,6,January,Wednesday,1
+2025-01-16,Arera Colony,Wet,436.37,Yes,3,January,Thursday,1
+2025-01-16,Shahpura,Construction,207.35,Yes,3,January,Thursday,1
+2025-01-16,TT Nagar,Wet,347.01,No,5,January,Thursday,1
+2025-01-16,Kolar Road,Medical,438.96,No,5,January,Thursday,1
+2025-01-16,Bairagarh,Construction,355.78,No,0,January,Thursday,1
+2025-01-16,Govindpura,Wet,444.67,No,2,January,Thursday,1
+2025-01-17,Arera Colony,Medical,67.22,No,5,January,Friday,1
+2025-01-17,Shahpura,Medical,246.38,Yes,6,January,Friday,1
+2025-01-17,TT Nagar,Dry,164.63,No,0,January,Friday,1
+2025-01-17,Kolar Road,Dry,213.9,Yes,10,January,Friday,1
+2025-01-17,Bairagarh,Medical,330.42,Yes,4,January,Friday,1
+2025-01-17,Govindpura,Medical,350.1,No,6,January,Friday,1
+2025-01-18,Arera Colony,Medical,299.49,Yes,6,January,Saturday,1
+2025-01-18,Shahpura,Construction,354.79,Yes,9,January,Saturday,1
+2025-01-18,TT Nagar,Medical,232.73,Yes,4,January,Saturday,1
+2025-01-18,Kolar Road,Medical,144.58,No,7,January,Saturday,1
+2025-01-18,Bairagarh,Construction,248.97,Yes,8,January,Saturday,1
+2025-01-18,Govindpura,Construction,407.18,Yes,10,January,Saturday,1
+2025-01-19,Arera Colony,Wet,177.7,No,1,January,Sunday,1
+2025-01-19,Shahpura,Dry,352.76,Yes,3,January,Sunday,1
+2025-01-19,TT Nagar,Dry,60.99,Yes,7,January,Sunday,1
+2025-01-19,Kolar Road,Wet,254.94,Yes,6,January,Sunday,1
+2025-01-19,Bairagarh,Construction,229.84,Yes,10,January,Sunday,1
+2025-01-19,Govindpura,Wet,451.7,Yes,6,January,Sunday,1
+2025-01-20,Arera Colony,Dry,129.15,No,0,January,Monday,1
+2025-01-20,Shahpura,Dry,462.86,Yes,7,January,Monday,1
+2025-01-20,TT Nagar,Dry,410.64,No,7,January,Monday,1
+2025-01-20,Kolar Road,Construction,423.76,No,2,January,Monday,1
+2025-01-20,Bairagarh,Construction,252.53,Yes,10,January,Monday,1
+2025-01-20,Govindpura,Medical,394.62,No,10,January,Monday,1
+2025-01-21,Arera Colony,Dry,173.57,Yes,4,January,Tuesday,1
+2025-01-21,Shahpura,Dry,172.27,No,8,January,Tuesday,1
+2025-01-21,TT Nagar,Wet,112.27,Yes,6,January,Tuesday,1
+2025-01-21,Kolar Road,Dry,367.89,Yes,6,January,Tuesday,1
+2025-01-21,Bairagarh,Construction,198.9,No,6,January,Tuesday,1
+2025-01-21,Govindpura,Wet,143.08,No,6,January,Tuesday,1
+2025-01-22,Arera Colony,Wet,435.53,No,7,January,Wednesday,1
+2025-01-22,Shahpura,Wet,474.23,No,6,January,Wednesday,1
+2025-01-22,TT Nagar,Construction,292.2,Yes,7,January,Wednesday,1
+2025-01-22,Kolar Road,Dry,172.82,No,0,January,Wednesday,1
+2025-01-22,Bairagarh,Construction,201.26,No,2,January,Wednesday,1
+2025-01-22,Govindpura,Construction,463.79,Yes,6,January,Wednesday,1
+2025-01-23,Arera Colony,Wet,87.78,No,2,January,Thursday,1
+2025-01-23,Shahpura,Construction,131.78,No,6,January,Thursday,1
+2025-01-23,TT Nagar,Medical,145.25,No,5,January,Thursday,1
+2025-01-23,Kolar Road,Construction,175.22,No,4,January,Thursday,1
+2025-01-23,Bairagarh,Wet,261.64,Yes,5,January,Thursday,1
+2025-01-23,Govindpura,Dry,342.56,Yes,0,January,Thursday,1
+2025-01-24,Arera Colony,Dry,139.71,Yes,9,January,Friday,1
+2025-01-24,Shahpura,Dry,157.35,No,10,January,Friday,1
+2025-01-24,TT Nagar,Wet,303.79,Yes,7,January,Friday,1
+2025-01-24,Kolar Road,Medical,395.1,Yes,9,January,Friday,1
+2025-01-24,Bairagarh,Wet,400.01,Yes,4,January,Friday,1
+2025-01-24,Govindpura,Wet,310.41,No,9,January,Friday,1
+2025-01-25,Arera Colony,Construction,228.49,Yes,1,January,Saturday,1
+2025-01-25,Shahpura,Dry,95.86,No,10,January,Saturday,1
+2025-01-25,TT Nagar,Wet,408.3,Yes,5,January,Saturday,1
+2025-01-25,Kolar Road,Construction,347.68,Yes,8,January,Saturday,1
+2025-01-25,Bairagarh,Medical,55.69,No,7,January,Saturday,1
+2025-01-25,Govindpura,Wet,245.09,No,10,January,Saturday,1
+2025-01-26,Arera Colony,Construction,368.29,No,2,January,Sunday,1
+2025-01-26,Shahpura,Medical,327.16,No,7,January,Sunday,1
+2025-01-26,TT Nagar,Construction,421.58,No,5,January,Sunday,1
+2025-01-26,Kolar Road,Dry,423.83,Yes,4,January,Sunday,1
+2025-01-26,Bairagarh,Construction,159.74,No,9,January,Sunday,1
+2025-01-26,Govindpura,Construction,201.38,No,5,January,Sunday,1
+2025-01-27,Arera Colony,Dry,269.4,No,4,January,Monday,1
+2025-01-27,Shahpura,Medical,175.85,No,8,January,Monday,1
+2025-01-27,TT Nagar,Wet,282.48,Yes,1,January,Monday,1
+2025-01-27,Kolar Road,Dry,374.03,No,8,January,Monday,1
+2025-01-27,Bairagarh,Dry,360.77,No,7,January,Monday,1
+2025-01-27,Govindpura,Wet,91.87,Yes,6,January,Monday,1
+2025-01-28,Arera Colony,Dry,187.79,No,7,January,Tuesday,1
+2025-01-28,Shahpura,Medical,241.48,No,5,January,Tuesday,1
+2025-01-28,TT Nagar,Construction,171.91,No,3,January,Tuesday,1
+2025-01-28,Kolar Road,Wet,374.58,No,1,January,Tuesday,1
+2025-01-28,Bairagarh,Dry,136.19,No,4,January,Tuesday,1
+2025-01-28,Govindpura,Medical,491.23,Yes,4,January,Tuesday,1
+2025-01-29,Arera Colony,Dry,212.4,No,0,January,Wednesday,1
+2025-01-29,Shahpura,Dry,173.44,Yes,8,January,Wednesday,1
+2025-01-29,TT Nagar,Medical,363.84,Yes,10,January,Wednesday,1
+2025-01-29,Kolar Road,Construction,96.16,Yes,9,January,Wednesday,1
+2025-01-29,Bairagarh,Medical,261.23,No,5,January,Wednesday,1
+2025-01-29,Govindpura,Dry,484.47,No,7,January,Wednesday,1
+2025-01-30,Arera Colony,Wet,419.95,No,7,January,Thursday,1
+2025-01-30,Shahpura,Wet,309.66,Yes,2,January,Thursday,1
+2025-01-30,TT Nagar,Dry,415.01,No,1,January,Thursday,1
+2025-01-30,Kolar Road,Dry,103.3,No,9,January,Thursday,1
+2025-01-30,Bairagarh,Dry,399.06,No,7,January,Thursday,1
+2025-01-30,Govindpura,Construction,183.81,No,4,January,Thursday,1
+2025-01-31,Arera Colony,Wet,324.33,Yes,3,January,Friday,1
+2025-01-31,Shahpura,Dry,169.09,Yes,2,January,Friday,1
+2025-01-31,TT Nagar,Dry,128.22,Yes,2,January,Friday,1
+2025-01-31,Kolar Road,Wet,233.83,No,4,January,Friday,1
+2025-01-31,Bairagarh,Wet,154.16,No,7,January,Friday,1
+2025-01-31,Govindpura,Wet,359.32,No,10,January,Friday,1
+2025-02-01,Arera Colony,Dry,241.31,Yes,10,February,Saturday,2
+2025-02-01,Shahpura,Dry,458.79,Yes,1,February,Saturday,2
+2025-02-01,TT Nagar,Wet,124.67,No,9,February,Saturday,2
+2025-02-01,Kolar Road,Medical,247.62,No,4,February,Saturday,2
+2025-02-01,Bairagarh,Construction,474.2,No,7,February,Saturday,2
+2025-02-01,Govindpura,Wet,319.12,No,5,February,Saturday,2
+2025-02-02,Arera Colony,Medical,61.64,Yes,10,February,Sunday,2
+2025-02-02,Shahpura,Wet,499.81,No,9,February,Sunday,2
+2025-02-02,TT Nagar,Wet,393.4,Yes,7,February,Sunday,2
+2025-02-02,Kolar Road,Construction,462.23,Yes,9,February,Sunday,2
+2025-02-02,Bairagarh,Construction,335.65,No,1,February,Sunday,2
+2025-02-02,Govindpura,Construction,206.58,No,5,February,Sunday,2
+2025-02-03,Arera Colony,Wet,435.98,No,6,February,Monday,2
+2025-02-03,Shahpura,Construction,179.7,No,8,February,Monday,2
+2025-02-03,TT Nagar,Wet,254.67,No,4,February,Monday,2
+2025-02-03,Kolar Road,Medical,102.16,No,8,February,Monday,2
+2025-02-03,Bairagarh,Wet,345.95,No,6,February,Monday,2
+2025-02-03,Govindpura,Wet,134.41,No,9,February,Monday,2
+2025-02-04,Arera Colony,Construction,331.43,Yes,3,February,Tuesday,2
+2025-02-04,Shahpura,Medical,297.15,No,7,February,Tuesday,2
+2025-02-04,TT Nagar,Construction,104.64,Yes,2,February,Tuesday,2
+2025-02-04,Kolar Road,Medical,297.88,No,1,February,Tuesday,2
+2025-02-04,Bairagarh,Dry,496.52,Yes,7,February,Tuesday,2
+2025-02-04,Govindpura,Wet,341.47,Yes,7,February,Tuesday,2
+2025-02-05,Arera Colony,Medical,278.99,No,6,February,Wednesday,2
+2025-02-05,Shahpura,Construction,491.11,Yes,7,February,Wednesday,2
+2025-02-05,TT Nagar,Dry,222.61,Yes,1,February,Wednesday,2
+2025-02-05,Kolar Road,Medical,397.7,No,5,February,Wednesday,2
+2025-02-05,Bairagarh,Medical,419.25,No,4,February,Wednesday,2
+2025-02-05,Govindpura,Construction,439.37,No,8,February,Wednesday,2
+2025-02-06,Arera Colony,Construction,205.31,No,7,February,Thursday,2
+2025-02-06,Shahpura,Medical,441.32,Yes,9,February,Thursday,2
+2025-02-06,TT Nagar,Construction,155.1,No,0,February,Thursday,2
+2025-02-06,Kolar Road,Medical,385.12,No,6,February,Thursday,2
+2025-02-06,Bairagarh,Dry,272.9,Yes,2,February,Thursday,2
+2025-02-06,Govindpura,Medical,441.37,No,1,February,Thursday,2
+2025-02-07,Arera Colony,Construction,56.91,Yes,6,February,Friday,2
+2025-02-07,Shahpura,Dry,83.67,No,5,February,Friday,2
+2025-02-07,TT Nagar,Construction,342.43,No,10,February,Friday,2
+2025-02-07,Kolar Road,Construction,479.36,No,8,February,Friday,2
+2025-02-07,Bairagarh,Wet,327.86,Yes,10,February,Friday,2
+2025-02-07,Govindpura,Medical,498.84,Yes,6,February,Friday,2
+2025-02-08,Arera Colony,Wet,392.17,Yes,7,February,Saturday,2
+2025-02-08,Shahpura,Dry,362.3,Yes,0,February,Saturday,2
+2025-02-08,TT Nagar,Medical,408.26,No,5,February,Saturday,2
+2025-02-08,Kolar Road,Medical,243.81,Yes,8,February,Saturday,2
+2025-02-08,Bairagarh,Construction,304.67,Yes,2,February,Saturday,2
+2025-02-08,Govindpura,Dry,85.54,No,9,February,Saturday,2
+2025-02-09,Arera Colony,Dry,273.95,Yes,3,February,Sunday,2
+2025-02-09,Shahpura,Construction,337.06,No,4,February,Sunday,2
+2025-02-09,TT Nagar,Wet,454.51,No,4,February,Sunday,2
+2025-02-09,Kolar Road,Dry,83.24,No,9,February,Sunday,2
+2025-02-09,Bairagarh,Medical,337.52,No,4,February,Sunday,2
+2025-02-09,Govindpura,Construction,430.39,Yes,6,February,Sunday,2
+2025-02-10,Arera Colony,Construction,97.99,No,9,February,Monday,2
+2025-02-10,Shahpura,Medical,308.67,No,0,February,Monday,2
+2025-02-10,TT Nagar,Construction,173.52,Yes,9,February,Monday,2
+2025-02-10,Kolar Road,Construction,424.78,No,3,February,Monday,2
+2025-02-10,Bairagarh,Medical,148.55,Yes,9,February,Monday,2
+2025-02-10,Govindpura,Medical,354.99,Yes,10,February,Monday,2
+2025-02-11,Arera Colony,Wet,456.53,Yes,4,February,Tuesday,2
+2025-02-11,Shahpura,Construction,65.01,No,2,February,Tuesday,2
+2025-02-11,TT Nagar,Wet,459.33,No,6,February,Tuesday,2
+2025-02-11,Kolar Road,Dry,140.36,No,8,February,Tuesday,2
+2025-02-11,Bairagarh,Medical,423.71,No,7,February,Tuesday,2
+2025-02-11,Govindpura,Medical,385.95,No,1,February,Tuesday,2
+2025-02-12,Arera Colony,Construction,483.3,Yes,3,February,Wednesday,2
+2025-02-12,Shahpura,Construction,485.27,No,1,February,Wednesday,2
+2025-02-12,TT Nagar,Construction,56.26,Yes,7,February,Wednesday,2
+2025-02-12,Kolar Road,Medical,352.77,No,9,February,Wednesday,2
+2025-02-12,Bairagarh,Construction,420.09,No,1,February,Wednesday,2
+2025-02-12,Govindpura,Dry,262.16,No,9,February,Wednesday,2
+2025-02-13,Arera Colony,Dry,341.44,No,4,February,Thursday,2
+2025-02-13,Shahpura,Construction,102.5,Yes,0,February,Thursday,2
+2025-02-13,TT Nagar,Medical,498.17,Yes,1,February,Thursday,2
+2025-02-13,Kolar Road,Dry,449.27,Yes,6,February,Thursday,2
+2025-02-13,Bairagarh,Construction,216.96,No,9,February,Thursday,2
+2025-02-13,Govindpura,Dry,448.44,Yes,7,February,Thursday,2
+2025-02-14,Arera Colony,Construction,472.57,No,0,February,Friday,2
+2025-02-14,Shahpura,Medical,147.77,No,3,February,Friday,2
+2025-02-14,TT Nagar,Medical,94.71,No,8,February,Friday,2
+2025-02-14,Kolar Road,Medical,77.25,No,3,February,Friday,2
+2025-02-14,Bairagarh,Wet,477.05,No,1,February,Friday,2
+2025-02-14,Govindpura,Dry,338.77,Yes,0,February,Friday,2
+2025-02-15,Arera Colony,Medical,159.61,Yes,9,February,Saturday,2
+2025-02-15,Shahpura,Dry,80.87,Yes,9,February,Saturday,2
+2025-02-15,TT Nagar,Dry,415.87,Yes,5,February,Saturday,2
+2025-02-15,Kolar Road,Dry,404.89,Yes,4,February,Saturday,2
+2025-02-15,Bairagarh,Dry,494.39,No,2,February,Saturday,2
+2025-02-15,Govindpura,Wet,347.48,Yes,2,February,Saturday,2
+2025-02-16,Arera Colony,Wet,211.21,Yes,9,February,Sunday,2
+2025-02-16,Shahpura,Medical,57.1,No,0,February,Sunday,2
+2025-02-16,TT Nagar,Dry,383.77,Yes,1,February,Sunday,2
+2025-02-16,Kolar Road,Construction,251.72,No,8,February,Sunday,2
+2025-02-16,Bairagarh,Wet,253.4,Yes,9,February,Sunday,2
+2025-02-16,Govindpura,Wet,377.26,No,7,February,Sunday,2
+2025-02-17,Arera Colony,Wet,77.37,No,6,February,Monday,2
+2025-02-17,Shahpura,Construction,358.74,No,7,February,Monday,2
+2025-02-17,TT Nagar,Wet,454.67,No,9,February,Monday,2
+2025-02-17,Kolar Road,Dry,79.56,No,9,February,Monday,2
+2025-02-17,Bairagarh,Medical,221.41,No,7,February,Monday,2
+2025-02-17,Govindpura,Construction,94.63,Yes,10,February,Monday,2
+2025-02-18,Arera Colony,Dry,243.53,Yes,6,February,Tuesday,2
+2025-02-18,Shahpura,Medical,422.34,No,6,February,Tuesday,2
+2025-02-18,TT Nagar,Wet,190.65,No,10,February,Tuesday,2
+2025-02-18,Kolar Road,Medical,218.44,Yes,10,February,Tuesday,2
+2025-02-18,Bairagarh,Construction,80.21,Yes,1,February,Tuesday,2
+2025-02-18,Govindpura,Construction,93.45,No,2,February,Tuesday,2
+2025-02-19,Arera Colony,Wet,313.91,No,10,February,Wednesday,2
+2025-02-19,Shahpura,Wet,234.86,No,0,February,Wednesday,2
+2025-02-19,TT Nagar,Medical,320.18,No,1,February,Wednesday,2
+2025-02-19,Kolar Road,Dry,119.63,No,3,February,Wednesday,2
+2025-02-19,Bairagarh,Wet,207.55,No,1,February,Wednesday,2
+2025-02-19,Govindpura,Medical,308.35,No,8,February,Wednesday,2
+2025-02-20,Arera Colony,Wet,324.05,No,0,February,Thursday,2
+2025-02-20,Shahpura,Dry,172.97,No,5,February,Thursday,2
+2025-02-20,TT Nagar,Medical,52.75,Yes,9,February,Thursday,2
+2025-02-20,Kolar Road,Construction,81.31,Yes,1,February,Thursday,2
+2025-02-20,Bairagarh,Dry,219.29,No,5,February,Thursday,2
+2025-02-20,Govindpura,Dry,216.52,No,9,February,Thursday,2
+2025-02-21,Arera Colony,Wet,447.5,Yes,2,February,Friday,2
+2025-02-21,Shahpura,Wet,353.29,No,7,February,Friday,2
+2025-02-21,TT Nagar,Construction,268.55,No,6,February,Friday,2
+2025-02-21,Kolar Road,Medical,147.01,Yes,5,February,Friday,2
+2025-02-21,Bairagarh,Construction,99.9,No,8,February,Friday,2
+2025-02-21,Govindpura,Medical,70.44,No,9,February,Friday,2
+2025-02-22,Arera Colony,Wet,53.46,No,3,February,Saturday,2
+2025-02-22,Shahpura,Dry,393.87,No,5,February,Saturday,2
+2025-02-22,TT Nagar,Wet,53.48,No,2,February,Saturday,2
+2025-02-22,Kolar Road,Dry,221.09,Yes,8,February,Saturday,2
+2025-02-22,Bairagarh,Medical,82.43,Yes,6,February,Saturday,2
+2025-02-22,Govindpura,Wet,256.89,Yes,5,February,Saturday,2
+2025-02-23,Arera Colony,Construction,308.03,No,4,February,Sunday,2
+2025-02-23,Shahpura,Wet,232.26,No,2,February,Sunday,2
+2025-02-23,TT Nagar,Construction,424.41,No,1,February,Sunday,2
+2025-02-23,Kolar Road,Construction,430.02,Yes,6,February,Sunday,2
+2025-02-23,Bairagarh,Construction,285.78,No,4,February,Sunday,2
+2025-02-23,Govindpura,Medical,149.71,Yes,1,February,Sunday,2
+2025-02-24,Arera Colony,Wet,288.77,Yes,5,February,Monday,2
+2025-02-24,Shahpura,Medical,377.32,Yes,3,February,Monday,2
+2025-02-24,TT Nagar,Wet,115.9,Yes,2,February,Monday,2
+2025-02-24,Kolar Road,Dry,392.1,Yes,2,February,Monday,2
+2025-02-24,Bairagarh,Construction,258.78,No,10,February,Monday,2
+2025-02-24,Govindpura,Medical,438.91,No,2,February,Monday,2
+2025-02-25,Arera Colony,Construction,80.73,No,10,February,Tuesday,2
+2025-02-25,Shahpura,Medical,408.35,Yes,5,February,Tuesday,2
+2025-02-25,TT Nagar,Wet,189.68,No,0,February,Tuesday,2
+2025-02-25,Kolar Road,Wet,215.93,No,1,February,Tuesday,2
+2025-02-25,Bairagarh,Wet,326.75,No,7,February,Tuesday,2
+2025-02-25,Govindpura,Wet,252.38,Yes,5,February,Tuesday,2
+2025-02-26,Arera Colony,Construction,275.62,Yes,7,February,Wednesday,2
+2025-02-26,Shahpura,Wet,414.94,No,1,February,Wednesday,2
+2025-02-26,TT Nagar,Dry,67.61,No,7,February,Wednesday,2
+2025-02-26,Kolar Road,Dry,213.75,No,6,February,Wednesday,2
+2025-02-26,Bairagarh,Construction,398.51,Yes,10,February,Wednesday,2
+2025-02-26,Govindpura,Medical,79.66,Yes,8,February,Wednesday,2
+2025-02-27,Arera Colony,Construction,177.87,Yes,5,February,Thursday,2
+2025-02-27,Shahpura,Wet,312.23,Yes,5,February,Thursday,2
+2025-02-27,TT Nagar,Medical,485.46,No,2,February,Thursday,2
+2025-02-27,Kolar Road,Wet,189.31,No,10,February,Thursday,2
+2025-02-27,Bairagarh,Medical,415.93,Yes,10,February,Thursday,2
+2025-02-27,Govindpura,Construction,278.82,Yes,5,February,Thursday,2
+2025-02-28,Arera Colony,Medical,131.12,Yes,5,February,Friday,2
+2025-02-28,Shahpura,Construction,136.4,Yes,2,February,Friday,2
+2025-02-28,TT Nagar,Wet,183.11,Yes,8,February,Friday,2
+2025-02-28,Kolar Road,Wet,347.87,Yes,9,February,Friday,2
+2025-02-28,Bairagarh,Construction,119.41,Yes,9,February,Friday,2
+2025-02-28,Govindpura,Dry,374.53,Yes,6,February,Friday,2
+2025-03-01,Arera Colony,Medical,354.36,Yes,7,March,Saturday,3
+2025-03-01,Shahpura,Medical,388.58,No,3,March,Saturday,3
+2025-03-01,TT Nagar,Dry,189.26,No,3,March,Saturday,3
+2025-03-01,Kolar Road,Medical,355.24,No,7,March,Saturday,3
+2025-03-01,Bairagarh,Medical,400.16,No,2,March,Saturday,3
+2025-03-01,Govindpura,Dry,410.57,Yes,4,March,Saturday,3
+2025-03-02,Arera Colony,Wet,338.53,No,8,March,Sunday,3
+2025-03-02,Shahpura,Wet,370.13,Yes,4,March,Sunday,3
+2025-03-02,TT Nagar,Wet,393.4,No,7,March,Sunday,3
+2025-03-02,Kolar Road,Dry,423.97,Yes,3,March,Sunday,3
+2025-03-02,Bairagarh,Construction,448.08,Yes,6,March,Sunday,3
+2025-03-02,Govindpura,Wet,228.4,No,3,March,Sunday,3
+2025-03-03,Arera Colony,Construction,497.54,No,3,March,Monday,3
+2025-03-03,Shahpura,Wet,193.41,Yes,10,March,Monday,3
+2025-03-03,TT Nagar,Medical,406.12,Yes,0,March,Monday,3
+2025-03-03,Kolar Road,Medical,462.83,No,2,March,Monday,3
+2025-03-03,Bairagarh,Construction,251.87,Yes,1,March,Monday,3
+2025-03-03,Govindpura,Wet,165.17,Yes,8,March,Monday,3
+2025-03-04,Arera Colony,Construction,100.03,No,3,March,Tuesday,3
+2025-03-04,Shahpura,Medical,104.83,Yes,6,March,Tuesday,3
+2025-03-04,TT Nagar,Construction,78.26,No,9,March,Tuesday,3
+2025-03-04,Kolar Road,Wet,334.38,Yes,2,March,Tuesday,3
+2025-03-04,Bairagarh,Medical,243.16,No,3,March,Tuesday,3
+2025-03-04,Govindpura,Construction,134.29,Yes,8,March,Tuesday,3
+2025-03-05,Arera Colony,Medical,80.46,Yes,6,March,Wednesday,3
+2025-03-05,Shahpura,Construction,69.59,No,5,March,Wednesday,3
+2025-03-05,TT Nagar,Medical,386.29,No,1,March,Wednesday,3
+2025-03-05,Kolar Road,Medical,158.51,Yes,9,March,Wednesday,3
+2025-03-05,Bairagarh,Medical,110.03,No,8,March,Wednesday,3
+2025-03-05,Govindpura,Medical,416.08,Yes,10,March,Wednesday,3
+2025-03-06,Arera Colony,Construction,491.37,No,10,March,Thursday,3
+2025-03-06,Shahpura,Dry,415.17,Yes,7,March,Thursday,3
+2025-03-06,TT Nagar,Wet,182.05,Yes,3,March,Thursday,3
+2025-03-06,Kolar Road,Wet,192.02,No,8,March,Thursday,3
+2025-03-06,Bairagarh,Construction,495.11,No,4,March,Thursday,3
+2025-03-06,Govindpura,Wet,388.98,Yes,4,March,Thursday,3
+2025-03-07,Arera Colony,Medical,437.96,Yes,10,March,Friday,3
+2025-03-07,Shahpura,Medical,172.95,No,6,March,Friday,3
+2025-03-07,TT Nagar,Construction,384.49,No,5,March,Friday,3
+2025-03-07,Kolar Road,Dry,273.29,No,5,March,Friday,3
+2025-03-07,Bairagarh,Medical,410.52,No,1,March,Friday,3
+2025-03-07,Govindpura,Construction,321.1,Yes,8,March,Friday,3
+2025-03-08,Arera Colony,Medical,194.55,Yes,5,March,Saturday,3
+2025-03-08,Shahpura,Medical,187.92,No,2,March,Saturday,3
+2025-03-08,TT Nagar,Construction,208.2,Yes,5,March,Saturday,3
+2025-03-08,Kolar Road,Construction,173.55,Yes,1,March,Saturday,3
+2025-03-08,Bairagarh,Construction,213.49,Yes,0,March,Saturday,3
+2025-03-08,Govindpura,Dry,431.9,No,0,March,Saturday,3
+2025-03-09,Arera Colony,Dry,80.26,No,5,March,Sunday,3
+2025-03-09,Shahpura,Construction,477.26,Yes,9,March,Sunday,3
+2025-03-09,TT Nagar,Dry,355.58,No,5,March,Sunday,3
+2025-03-09,Kolar Road,Construction,393.39,Yes,8,March,Sunday,3
+2025-03-09,Bairagarh,Medical,229.12,No,3,March,Sunday,3
+2025-03-09,Govindpura,Wet,61.66,Yes,7,March,Sunday,3
+2025-03-10,Arera Colony,Construction,461.09,Yes,4,March,Monday,3
+2025-03-10,Shahpura,Medical,366.82,Yes,9,March,Monday,3
+2025-03-10,TT Nagar,Medical,362.29,No,3,March,Monday,3
+2025-03-10,Kolar Road,Wet,111.08,Yes,7,March,Monday,3
+2025-03-10,Bairagarh,Dry,454.41,No,1,March,Monday,3
+2025-03-10,Govindpura,Medical,350.53,Yes,8,March,Monday,3
+2025-03-11,Arera Colony,Medical,451.1,Yes,10,March,Tuesday,3
+2025-03-11,Shahpura,Dry,407.16,Yes,1,March,Tuesday,3
+2025-03-11,TT Nagar,Dry,406.43,Yes,7,March,Tuesday,3
+2025-03-11,Kolar Road,Wet,212.4,No,7,March,Tuesday,3
+2025-03-11,Bairagarh,Dry,325.38,Yes,1,March,Tuesday,3
+2025-03-11,Govindpura,Medical,229.17,No,8,March,Tuesday,3
+2025-03-12,Arera Colony,Construction,396.12,Yes,2,March,Wednesday,3
+2025-03-12,Shahpura,Medical,339.05,No,7,March,Wednesday,3
+2025-03-12,TT Nagar,Medical,107.75,Yes,2,March,Wednesday,3
+2025-03-12,Kolar Road,Construction,276.29,Yes,1,March,Wednesday,3
+2025-03-12,Bairagarh,Dry,186.86,Yes,5,March,Wednesday,3
+2025-03-12,Govindpura,Dry,205.71,No,1,March,Wednesday,3
+2025-03-13,Arera Colony,Medical,138.34,No,2,March,Thursday,3
+2025-03-13,Shahpura,Medical,326.49,Yes,8,March,Thursday,3
+2025-03-13,TT Nagar,Dry,316.31,Yes,2,March,Thursday,3
+2025-03-13,Kolar Road,Medical,429.14,Yes,0,March,Thursday,3
+2025-03-13,Bairagarh,Wet,70.46,No,10,March,Thursday,3
+2025-03-13,Govindpura,Dry,395.13,No,9,March,Thursday,3
+2025-03-14,Arera Colony,Wet,274.12,No,10,March,Friday,3
+2025-03-14,Shahpura,Medical,267.33,No,4,March,Friday,3
+2025-03-14,TT Nagar,Construction,82.84,Yes,2,March,Friday,3
+2025-03-14,Kolar Road,Construction,237.03,No,3,March,Friday,3
+2025-03-14,Bairagarh,Medical,323.0,No,5,March,Friday,3
+2025-03-14,Govindpura,Medical,488.92,Yes,5,March,Friday,3
+2025-03-15,Arera Colony,Wet,193.6,No,1,March,Saturday,3
+2025-03-15,Shahpura,Medical,252.32,Yes,1,March,Saturday,3
+2025-03-15,TT Nagar,Wet,180.6,No,9,March,Saturday,3
+2025-03-15,Kolar Road,Construction,161.72,Yes,5,March,Saturday,3
+2025-03-15,Bairagarh,Medical,135.43,Yes,7,March,Saturday,3
+2025-03-15,Govindpura,Construction,274.44,No,7,March,Saturday,3
+2025-03-16,Arera Colony,Wet,90.52,No,8,March,Sunday,3
+2025-03-16,Shahpura,Construction,485.01,Yes,9,March,Sunday,3
+2025-03-16,TT Nagar,Medical,71.9,No,7,March,Sunday,3
+2025-03-16,Kolar Road,Construction,178.59,Yes,1,March,Sunday,3
+2025-03-16,Bairagarh,Construction,110.27,No,5,March,Sunday,3
+2025-03-16,Govindpura,Construction,214.67,No,0,March,Sunday,3
+2025-03-17,Arera Colony,Dry,213.14,No,1,March,Monday,3
+2025-03-17,Shahpura,Construction,276.91,No,9,March,Monday,3
+2025-03-17,TT Nagar,Wet,107.9,Yes,6,March,Monday,3
+2025-03-17,Kolar Road,Medical,407.7,No,8,March,Monday,3
+2025-03-17,Bairagarh,Medical,389.73,Yes,9,March,Monday,3
+2025-03-17,Govindpura,Construction,275.04,Yes,0,March,Monday,3
+2025-03-18,Arera Colony,Dry,371.12,No,8,March,Tuesday,3
+2025-03-18,Shahpura,Construction,117.02,Yes,5,March,Tuesday,3
+2025-03-18,TT Nagar,Medical,123.13,No,9,March,Tuesday,3
+2025-03-18,Kolar Road,Medical,278.29,No,9,March,Tuesday,3
+2025-03-18,Bairagarh,Medical,263.7,Yes,5,March,Tuesday,3
+2025-03-18,Govindpura,Medical,353.21,No,9,March,Tuesday,3
+2025-03-19,Arera Colony,Medical,408.54,Yes,9,March,Wednesday,3
+2025-03-19,Shahpura,Construction,169.49,Yes,0,March,Wednesday,3
+2025-03-19,TT Nagar,Construction,126.73,No,2,March,Wednesday,3
+2025-03-19,Kolar Road,Dry,64.21,Yes,3,March,Wednesday,3
+2025-03-19,Bairagarh,Wet,248.47,No,2,March,Wednesday,3
+2025-03-19,Govindpura,Construction,360.73,No,8,March,Wednesday,3
+2025-03-20,Arera Colony,Construction,442.77,Yes,2,March,Thursday,3
+2025-03-20,Shahpura,Dry,302.4,No,8,March,Thursday,3
+2025-03-20,TT Nagar,Construction,191.19,Yes,7,March,Thursday,3
+2025-03-20,Kolar Road,Medical,295.82,No,9,March,Thursday,3
+2025-03-20,Bairagarh,Construction,136.52,Yes,4,March,Thursday,3
+2025-03-20,Govindpura,Medical,151.19,No,4,March,Thursday,3
+2025-03-21,Arera Colony,Dry,360.61,No,5,March,Friday,3
+2025-03-21,Shahpura,Construction,206.96,No,4,March,Friday,3
+2025-03-21,TT Nagar,Wet,308.06,No,6,March,Friday,3
+2025-03-21,Kolar Road,Medical,479.57,Yes,4,March,Friday,3
+2025-03-21,Bairagarh,Wet,179.43,Yes,5,March,Friday,3
+2025-03-21,Govindpura,Construction,345.19,No,3,March,Friday,3
+2025-03-22,Arera Colony,Dry,422.58,No,8,March,Saturday,3
+2025-03-22,Shahpura,Medical,111.77,Yes,3,March,Saturday,3
+2025-03-22,TT Nagar,Wet,351.43,Yes,10,March,Saturday,3
+2025-03-22,Kolar Road,Dry,73.62,No,5,March,Saturday,3
+2025-03-22,Bairagarh,Construction,95.25,Yes,0,March,Saturday,3
+2025-03-22,Govindpura,Dry,233.11,No,7,March,Saturday,3
+2025-03-23,Arera Colony,Dry,390.16,No,5,March,Sunday,3
+2025-03-23,Shahpura,Medical,340.65,Yes,10,March,Sunday,3
+2025-03-23,TT Nagar,Dry,290.82,Yes,2,March,Sunday,3
+2025-03-23,Kolar Road,Construction,447.01,Yes,0,March,Sunday,3
+2025-03-23,Bairagarh,Construction,404.58,Yes,4,March,Sunday,3
+2025-03-23,Govindpura,Wet,54.17,Yes,5,March,Sunday,3
+2025-03-24,Arera Colony,Medical,254.46,No,2,March,Monday,3
+2025-03-24,Shahpura,Construction,172.78,Yes,5,March,Monday,3
+2025-03-24,TT Nagar,Dry,379.0,No,2,March,Monday,3
+2025-03-24,Kolar Road,Wet,381.48,No,9,March,Monday,3
+2025-03-24,Bairagarh,Dry,128.97,No,6,March,Monday,3
+2025-03-24,Govindpura,Medical,89.03,Yes,2,March,Monday,3
+2025-03-25,Arera Colony,Dry,264.85,Yes,0,March,Tuesday,3
+2025-03-25,Shahpura,Medical,222.61,No,4,March,Tuesday,3
+2025-03-25,TT Nagar,Medical,185.88,Yes,4,March,Tuesday,3
+2025-03-25,Kolar Road,Medical,361.75,Yes,10,March,Tuesday,3
+2025-03-25,Bairagarh,Wet,259.43,Yes,6,March,Tuesday,3
+2025-03-25,Govindpura,Medical,360.63,No,5,March,Tuesday,3
+2025-03-26,Arera Colony,Dry,148.61,Yes,7,March,Wednesday,3
+2025-03-26,Shahpura,Dry,254.74,No,6,March,Wednesday,3
+2025-03-26,TT Nagar,Construction,390.81,Yes,3,March,Wednesday,3
+2025-03-26,Kolar Road,Wet,286.48,No,1,March,Wednesday,3
+2025-03-26,Bairagarh,Wet,77.79,Yes,9,March,Wednesday,3
+2025-03-26,Govindpura,Dry,124.04,No,1,March,Wednesday,3
+2025-03-27,Arera Colony,Dry,372.61,No,1,March,Thursday,3
+2025-03-27,Shahpura,Construction,413.91,No,2,March,Thursday,3
+2025-03-27,TT Nagar,Construction,255.56,Yes,8,March,Thursday,3
+2025-03-27,Kolar Road,Construction,352.75,No,0,March,Thursday,3
+2025-03-27,Bairagarh,Construction,164.51,Yes,3,March,Thursday,3
+2025-03-27,Govindpura,Wet,70.38,No,1,March,Thursday,3
+2025-03-28,Arera Colony,Wet,470.56,Yes,7,March,Friday,3
+2025-03-28,Shahpura,Wet,179.19,Yes,2,March,Friday,3
+2025-03-28,TT Nagar,Construction,218.51,No,7,March,Friday,3
+2025-03-28,Kolar Road,Construction,219.04,Yes,10,March,Friday,3
+2025-03-28,Bairagarh,Medical,103.38,No,8,March,Friday,3
+2025-03-28,Govindpura,Dry,377.54,Yes,0,March,Friday,3
+2025-03-29,Arera Colony,Wet,490.32,No,10,March,Saturday,3
+2025-03-29,Shahpura,Construction,289.37,Yes,3,March,Saturday,3
+2025-03-29,TT Nagar,Construction,205.77,No,3,March,Saturday,3
+2025-03-29,Kolar Road,Wet,64.5,No,9,March,Saturday,3
+2025-03-29,Bairagarh,Wet,158.3,Yes,1,March,Saturday,3
+2025-03-29,Govindpura,Wet,250.9,Yes,3,March,Saturday,3
+2025-03-30,Arera Colony,Wet,231.02,Yes,8,March,Sunday,3
+2025-03-30,Shahpura,Dry,389.47,Yes,2,March,Sunday,3
+2025-03-30,TT Nagar,Medical,155.37,No,9,March,Sunday,3
+2025-03-30,Kolar Road,Medical,156.61,Yes,10,March,Sunday,3
+2025-03-30,Bairagarh,Dry,236.1,No,0,March,Sunday,3
+2025-03-30,Govindpura,Dry,331.7,No,8,March,Sunday,3
+2025-03-31,Arera Colony,Construction,71.1,No,10,March,Monday,3
+2025-03-31,Shahpura,Construction,403.61,No,6,March,Monday,3
+2025-03-31,TT Nagar,Construction,117.15,No,2,March,Monday,3
+2025-03-31,Kolar Road,Construction,158.44,Yes,4,March,Monday,3
+2025-03-31,Bairagarh,Dry,412.6,Yes,8,March,Monday,3
+2025-03-31,Govindpura,Construction,485.5,Yes,6,March,Monday,3
+2025-04-01,Arera Colony,Dry,164.75,No,10,April,Tuesday,4
+2025-04-01,Shahpura,Wet,465.0,No,1,April,Tuesday,4
+2025-04-01,TT Nagar,Dry,73.19,No,10,April,Tuesday,4
+2025-04-01,Kolar Road,Wet,443.13,Yes,9,April,Tuesday,4
+2025-04-01,Bairagarh,Dry,265.73,No,4,April,Tuesday,4
+2025-04-01,Govindpura,Wet,145.31,Yes,1,April,Tuesday,4
+2025-04-02,Arera Colony,Construction,461.5,Yes,6,April,Wednesday,4
+2025-04-02,Shahpura,Dry,298.44,No,6,April,Wednesday,4
+2025-04-02,TT Nagar,Construction,290.14,No,4,April,Wednesday,4
+2025-04-02,Kolar Road,Medical,211.84,No,7,April,Wednesday,4
+2025-04-02,Bairagarh,Wet,411.27,No,5,April,Wednesday,4
+2025-04-02,Govindpura,Dry,216.82,No,0,April,Wednesday,4
+2025-04-03,Arera Colony,Dry,383.56,Yes,4,April,Thursday,4
+2025-04-03,Shahpura,Construction,182.84,Yes,5,April,Thursday,4
+2025-04-03,TT Nagar,Dry,220.93,Yes,7,April,Thursday,4
+2025-04-03,Kolar Road,Medical,165.8,No,10,April,Thursday,4
+2025-04-03,Bairagarh,Construction,257.37,No,2,April,Thursday,4
+2025-04-03,Govindpura,Dry,374.14,No,2,April,Thursday,4
+2025-04-04,Arera Colony,Wet,285.77,Yes,10,April,Friday,4
+2025-04-04,Shahpura,Wet,393.95,No,2,April,Friday,4
+2025-04-04,TT Nagar,Dry,80.59,Yes,0,April,Friday,4
+2025-04-04,Kolar Road,Dry,277.58,No,0,April,Friday,4
+2025-04-04,Bairagarh,Construction,346.68,Yes,0,April,Friday,4
+2025-04-04,Govindpura,Construction,55.33,No,8,April,Friday,4
+2025-04-05,Arera Colony,Medical,57.71,No,2,April,Saturday,4
+2025-04-05,Shahpura,Wet,463.12,Yes,3,April,Saturday,4
+2025-04-05,TT Nagar,Dry,328.9,No,5,April,Saturday,4
+2025-04-05,Kolar Road,Medical,407.72,Yes,5,April,Saturday,4
+2025-04-05,Bairagarh,Construction,256.55,Yes,3,April,Saturday,4
+2025-04-05,Govindpura,Medical,357.82,Yes,10,April,Saturday,4
+2025-04-06,Arera Colony,Wet,92.08,No,6,April,Sunday,4
+2025-04-06,Shahpura,Construction,75.25,Yes,2,April,Sunday,4
+2025-04-06,TT Nagar,Wet,274.94,No,10,April,Sunday,4
+2025-04-06,Kolar Road,Medical,304.64,Yes,8,April,Sunday,4
+2025-04-06,Bairagarh,Wet,153.39,No,4,April,Sunday,4
+2025-04-06,Govindpura,Wet,465.87,No,8,April,Sunday,4
+2025-04-07,Arera Colony,Wet,130.71,No,0,April,Monday,4
+2025-04-07,Shahpura,Dry,314.17,No,1,April,Monday,4
+2025-04-07,TT Nagar,Medical,123.1,Yes,9,April,Monday,4
+2025-04-07,Kolar Road,Construction,354.67,No,6,April,Monday,4
+2025-04-07,Bairagarh,Dry,405.72,Yes,8,April,Monday,4
+2025-04-07,Govindpura,Medical,74.16,No,3,April,Monday,4
+2025-04-08,Arera Colony,Wet,203.27,No,5,April,Tuesday,4
+2025-04-08,Shahpura,Wet,335.36,No,7,April,Tuesday,4
+2025-04-08,TT Nagar,Dry,210.12,No,6,April,Tuesday,4
+2025-04-08,Kolar Road,Dry,355.86,No,1,April,Tuesday,4
+2025-04-08,Bairagarh,Medical,409.12,Yes,1,April,Tuesday,4
+2025-04-08,Govindpura,Medical,119.4,Yes,6,April,Tuesday,4
+2025-04-09,Arera Colony,Medical,212.32,Yes,0,April,Wednesday,4
+2025-04-09,Shahpura,Medical,250.13,No,1,April,Wednesday,4
+2025-04-09,TT Nagar,Dry,89.28,No,7,April,Wednesday,4
+2025-04-09,Kolar Road,Construction,96.48,Yes,5,April,Wednesday,4
+2025-04-09,Bairagarh,Wet,318.62,No,6,April,Wednesday,4
+2025-04-09,Govindpura,Wet,181.33,No,1,April,Wednesday,4
+2025-04-10,Arera Colony,Dry,307.38,Yes,10,April,Thursday,4
+2025-04-10,Shahpura,Construction,126.28,No,4,April,Thursday,4
+2025-04-10,TT Nagar,Medical,271.91,Yes,2,April,Thursday,4
+2025-04-10,Kolar Road,Construction,174.18,No,7,April,Thursday,4
+2025-04-10,Bairagarh,Wet,212.51,Yes,10,April,Thursday,4
+2025-04-10,Govindpura,Construction,317.21,Yes,7,April,Thursday,4
+2025-04-11,Arera Colony,Wet,110.97,Yes,6,April,Friday,4
+2025-04-11,Shahpura,Medical,428.73,No,5,April,Friday,4
+2025-04-11,TT Nagar,Construction,200.63,Yes,4,April,Friday,4
+2025-04-11,Kolar Road,Medical,321.45,Yes,7,April,Friday,4
+2025-04-11,Bairagarh,Medical,129.94,No,5,April,Friday,4
+2025-04-11,Govindpura,Medical,380.69,No,9,April,Friday,4
+2025-04-12,Arera Colony,Dry,196.65,No,6,April,Saturday,4
+2025-04-12,Shahpura,Medical,101.25,Yes,9,April,Saturday,4
+2025-04-12,TT Nagar,Dry,356.77,Yes,7,April,Saturday,4
+2025-04-12,Kolar Road,Dry,247.3,No,1,April,Saturday,4
+2025-04-12,Bairagarh,Construction,352.84,Yes,10,April,Saturday,4
+2025-04-12,Govindpura,Medical,158.91,Yes,6,April,Saturday,4
+2025-04-13,Arera Colony,Construction,83.28,No,9,April,Sunday,4
+2025-04-13,Shahpura,Construction,290.47,No,8,April,Sunday,4
+2025-04-13,TT Nagar,Wet,405.82,No,8,April,Sunday,4
+2025-04-13,Kolar Road,Wet,99.22,Yes,10,April,Sunday,4
+2025-04-13,Bairagarh,Medical,124.85,Yes,9,April,Sunday,4
+2025-04-13,Govindpura,Construction,485.07,No,6,April,Sunday,4
+2025-04-14,Arera Colony,Wet,54.75,No,3,April,Monday,4
+2025-04-14,Shahpura,Dry,250.6,No,7,April,Monday,4
+2025-04-14,TT Nagar,Dry,205.24,Yes,7,April,Monday,4
+2025-04-14,Kolar Road,Wet,182.94,Yes,1,April,Monday,4
+2025-04-14,Bairagarh,Dry,206.75,No,7,April,Monday,4
+2025-04-14,Govindpura,Dry,284.5,No,7,April,Monday,4
+2025-04-15,Arera Colony,Wet,247.17,No,5,April,Tuesday,4
+2025-04-15,Shahpura,Wet,185.12,Yes,0,April,Tuesday,4
+2025-04-15,TT Nagar,Medical,341.59,Yes,3,April,Tuesday,4
+2025-04-15,Kolar Road,Dry,298.36,No,8,April,Tuesday,4
+2025-04-15,Bairagarh,Construction,481.31,Yes,6,April,Tuesday,4
+2025-04-15,Govindpura,Dry,133.87,No,6,April,Tuesday,4
+2025-04-16,Arera Colony,Wet,381.82,Yes,7,April,Wednesday,4
+2025-04-16,Shahpura,Construction,224.98,Yes,3,April,Wednesday,4
+2025-04-16,TT Nagar,Medical,388.55,Yes,9,April,Wednesday,4
+2025-04-16,Kolar Road,Wet,409.78,Yes,5,April,Wednesday,4
+2025-04-16,Bairagarh,Medical,138.68,Yes,4,April,Wednesday,4
+2025-04-16,Govindpura,Construction,287.47,No,9,April,Wednesday,4
+2025-04-17,Arera Colony,Construction,325.09,Yes,5,April,Thursday,4
+2025-04-17,Shahpura,Medical,430.48,Yes,10,April,Thursday,4
+2025-04-17,TT Nagar,Medical,463.41,Yes,10,April,Thursday,4
+2025-04-17,Kolar Road,Dry,190.93,Yes,4,April,Thursday,4
+2025-04-17,Bairagarh,Wet,132.37,Yes,8,April,Thursday,4
+2025-04-17,Govindpura,Construction,238.21,Yes,9,April,Thursday,4
+2025-04-18,Arera Colony,Construction,240.37,No,10,April,Friday,4
+2025-04-18,Shahpura,Dry,299.71,No,4,April,Friday,4
+2025-04-18,TT Nagar,Dry,134.19,No,9,April,Friday,4
+2025-04-18,Kolar Road,Wet,439.49,Yes,7,April,Friday,4
+2025-04-18,Bairagarh,Dry,137.81,No,8,April,Friday,4
+2025-04-18,Govindpura,Construction,234.11,No,6,April,Friday,4
+2025-04-19,Arera Colony,Construction,269.91,Yes,9,April,Saturday,4
+2025-04-19,Shahpura,Wet,408.15,Yes,4,April,Saturday,4
+2025-04-19,TT Nagar,Wet,173.68,No,2,April,Saturday,4
+2025-04-19,Kolar Road,Construction,304.54,No,8,April,Saturday,4
+2025-04-19,Bairagarh,Wet,307.72,No,8,April,Saturday,4
+2025-04-19,Govindpura,Medical,293.92,Yes,7,April,Saturday,4
+2025-04-20,Arera Colony,Dry,495.4,Yes,10,April,Sunday,4
+2025-04-20,Shahpura,Dry,183.97,Yes,7,April,Sunday,4
+2025-04-20,TT Nagar,Medical,206.86,Yes,7,April,Sunday,4
+2025-04-20,Kolar Road,Wet,399.03,Yes,3,April,Sunday,4
+2025-04-20,Bairagarh,Medical,437.47,No,2,April,Sunday,4
+2025-04-20,Govindpura,Dry,403.18,Yes,0,April,Sunday,4
+2025-04-21,Arera Colony,Medical,289.53,Yes,5,April,Monday,4
+2025-04-21,Shahpura,Medical,180.2,No,8,April,Monday,4
+2025-04-21,TT Nagar,Wet,111.02,No,0,April,Monday,4
+2025-04-21,Kolar Road,Medical,440.17,Yes,2,April,Monday,4
+2025-04-21,Bairagarh,Dry,115.81,No,3,April,Monday,4
+2025-04-21,Govindpura,Construction,270.26,No,10,April,Monday,4
+2025-04-22,Arera Colony,Construction,218.83,Yes,10,April,Tuesday,4
+2025-04-22,Shahpura,Wet,231.28,No,5,April,Tuesday,4
+2025-04-22,TT Nagar,Construction,477.61,No,9,April,Tuesday,4
+2025-04-22,Kolar Road,Wet,441.01,Yes,7,April,Tuesday,4
+2025-04-22,Bairagarh,Medical,432.55,No,3,April,Tuesday,4
+2025-04-22,Govindpura,Construction,421.18,No,4,April,Tuesday,4
+2025-04-23,Arera Colony,Medical,422.75,No,8,April,Wednesday,4
+2025-04-23,Shahpura,Dry,304.76,No,5,April,Wednesday,4
+2025-04-23,TT Nagar,Wet,70.67,No,0,April,Wednesday,4
+2025-04-23,Kolar Road,Wet,468.24,Yes,7,April,Wednesday,4
+2025-04-23,Bairagarh,Construction,50.3,No,3,April,Wednesday,4
+2025-04-23,Govindpura,Dry,446.97,No,2,April,Wednesday,4
+2025-04-24,Arera Colony,Medical,92.0,No,4,April,Thursday,4
+2025-04-24,Shahpura,Wet,217.33,Yes,0,April,Thursday,4
+2025-04-24,TT Nagar,Construction,331.52,Yes,6,April,Thursday,4
+2025-04-24,Kolar Road,Wet,366.66,Yes,3,April,Thursday,4
+2025-04-24,Bairagarh,Construction,85.07,Yes,8,April,Thursday,4
+2025-04-24,Govindpura,Construction,54.18,No,1,April,Thursday,4
+2025-04-25,Arera Colony,Construction,362.31,No,1,April,Friday,4
+2025-04-25,Shahpura,Dry,222.38,Yes,1,April,Friday,4
+2025-04-25,TT Nagar,Medical,215.4,No,2,April,Friday,4
+2025-04-25,Kolar Road,Construction,398.06,Yes,10,April,Friday,4
+2025-04-25,Bairagarh,Dry,80.79,Yes,9,April,Friday,4
+2025-04-25,Govindpura,Dry,248.04,Yes,10,April,Friday,4
+2025-04-26,Arera Colony,Dry,463.95,No,3,April,Saturday,4
+2025-04-26,Shahpura,Wet,453.47,Yes,1,April,Saturday,4
+2025-04-26,TT Nagar,Construction,208.19,No,5,April,Saturday,4
+2025-04-26,Kolar Road,Dry,161.5,Yes,3,April,Saturday,4
+2025-04-26,Bairagarh,Medical,400.54,Yes,10,April,Saturday,4
+2025-04-26,Govindpura,Medical,142.45,Yes,6,April,Saturday,4
+2025-04-27,Arera Colony,Medical,340.78,Yes,7,April,Sunday,4
+2025-04-27,Shahpura,Construction,100.73,No,10,April,Sunday,4
+2025-04-27,TT Nagar,Wet,287.73,Yes,5,April,Sunday,4
+2025-04-27,Kolar Road,Medical,109.39,No,5,April,Sunday,4
+2025-04-27,Bairagarh,Dry,393.23,Yes,0,April,Sunday,4
+2025-04-27,Govindpura,Wet,56.21,Yes,0,April,Sunday,4
+2025-04-28,Arera Colony,Wet,476.91,No,8,April,Monday,4
+2025-04-28,Shahpura,Medical,332.86,No,6,April,Monday,4
+2025-04-28,TT Nagar,Construction,87.09,Yes,4,April,Monday,4
+2025-04-28,Kolar Road,Wet,189.46,Yes,2,April,Monday,4
+2025-04-28,Bairagarh,Medical,225.83,Yes,4,April,Monday,4
+2025-04-28,Govindpura,Construction,378.48,Yes,0,April,Monday,4
+2025-04-29,Arera Colony,Dry,88.8,No,1,April,Tuesday,4
+2025-04-29,Shahpura,Construction,325.53,Yes,4,April,Tuesday,4
+2025-04-29,TT Nagar,Dry,103.75,Yes,0,April,Tuesday,4
+2025-04-29,Kolar Road,Dry,273.39,No,8,April,Tuesday,4
+2025-04-29,Bairagarh,Medical,125.13,Yes,4,April,Tuesday,4
+2025-04-29,Govindpura,Wet,397.14,Yes,5,April,Tuesday,4
+2025-04-30,Arera Colony,Construction,172.39,Yes,4,April,Wednesday,4
+2025-04-30,Shahpura,Wet,273.27,No,0,April,Wednesday,4
+2025-04-30,TT Nagar,Construction,436.71,Yes,5,April,Wednesday,4
+2025-04-30,Kolar Road,Dry,164.8,Yes,9,April,Wednesday,4
+2025-04-30,Bairagarh,Wet,152.78,Yes,0,April,Wednesday,4
+2025-04-30,Govindpura,Wet,160.05,No,5,April,Wednesday,4
+2025-05-01,Arera Colony,Construction,464.1,Yes,0,May,Thursday,5
+2025-05-01,Shahpura,Construction,151.03,Yes,6,May,Thursday,5
+2025-05-01,TT Nagar,Medical,172.07,Yes,9,May,Thursday,5
+2025-05-01,Kolar Road,Medical,103.73,Yes,2,May,Thursday,5
+2025-05-01,Bairagarh,Dry,411.95,Yes,6,May,Thursday,5
+2025-05-01,Govindpura,Wet,444.65,No,4,May,Thursday,5
+2025-05-02,Arera Colony,Medical,88.87,No,0,May,Friday,5
+2025-05-02,Shahpura,Medical,140.3,No,9,May,Friday,5
+2025-05-02,TT Nagar,Dry,258.77,No,3,May,Friday,5
+2025-05-02,Kolar Road,Dry,117.75,No,0,May,Friday,5
+2025-05-02,Bairagarh,Dry,293.7,Yes,5,May,Friday,5
+2025-05-02,Govindpura,Wet,391.52,No,4,May,Friday,5
+2025-05-03,Arera Colony,Wet,142.34,Yes,6,May,Saturday,5
+2025-05-03,Shahpura,Construction,482.53,Yes,4,May,Saturday,5
+2025-05-03,TT Nagar,Wet,69.76,Yes,8,May,Saturday,5
+2025-05-03,Kolar Road,Construction,365.38,No,7,May,Saturday,5
+2025-05-03,Bairagarh,Wet,311.35,Yes,10,May,Saturday,5
+2025-05-03,Govindpura,Construction,83.67,Yes,6,May,Saturday,5
+2025-05-04,Arera Colony,Dry,156.55,No,5,May,Sunday,5
+2025-05-04,Shahpura,Construction,365.33,No,5,May,Sunday,5
+2025-05-04,TT Nagar,Construction,172.38,Yes,3,May,Sunday,5
+2025-05-04,Kolar Road,Dry,400.97,Yes,2,May,Sunday,5
+2025-05-04,Bairagarh,Wet,123.97,No,5,May,Sunday,5
+2025-05-04,Govindpura,Construction,104.33,No,3,May,Sunday,5
+2025-05-05,Arera Colony,Construction,188.74,No,1,May,Monday,5
+2025-05-05,Shahpura,Wet,120.93,No,9,May,Monday,5
+2025-05-05,TT Nagar,Wet,146.76,No,2,May,Monday,5
+2025-05-05,Kolar Road,Wet,370.02,No,6,May,Monday,5
+2025-05-05,Bairagarh,Wet,354.73,No,2,May,Monday,5
+2025-05-05,Govindpura,Wet,478.44,No,8,May,Monday,5
+2025-05-06,Arera Colony,Dry,92.63,Yes,2,May,Tuesday,5
+2025-05-06,Shahpura,Wet,55.38,Yes,2,May,Tuesday,5
+2025-05-06,TT Nagar,Dry,420.65,No,10,May,Tuesday,5
+2025-05-06,Kolar Road,Wet,312.05,No,1,May,Tuesday,5
+2025-05-06,Bairagarh,Wet,498.72,Yes,10,May,Tuesday,5
+2025-05-06,Govindpura,Construction,414.18,Yes,5,May,Tuesday,5
+2025-05-07,Arera Colony,Wet,69.21,No,0,May,Wednesday,5
+2025-05-07,Shahpura,Dry,465.86,No,6,May,Wednesday,5
+2025-05-07,TT Nagar,Construction,63.27,No,2,May,Wednesday,5
+2025-05-07,Kolar Road,Medical,146.62,Yes,4,May,Wednesday,5
+2025-05-07,Bairagarh,Medical,250.71,Yes,0,May,Wednesday,5
+2025-05-07,Govindpura,Dry,341.28,No,6,May,Wednesday,5
+2025-05-08,Arera Colony,Construction,77.44,No,6,May,Thursday,5
+2025-05-08,Shahpura,Dry,238.66,Yes,10,May,Thursday,5
+2025-05-08,TT Nagar,Wet,495.23,No,7,May,Thursday,5
+2025-05-08,Kolar Road,Construction,204.82,No,6,May,Thursday,5
+2025-05-08,Bairagarh,Medical,130.92,No,9,May,Thursday,5
+2025-05-08,Govindpura,Dry,63.19,No,0,May,Thursday,5
+2025-05-09,Arera Colony,Construction,288.24,Yes,2,May,Friday,5
+2025-05-09,Shahpura,Wet,161.54,Yes,4,May,Friday,5
+2025-05-09,TT Nagar,Wet,393.82,Yes,9,May,Friday,5
+2025-05-09,Kolar Road,Construction,209.66,Yes,2,May,Friday,5
+2025-05-09,Bairagarh,Dry,316.63,No,9,May,Friday,5
+2025-05-09,Govindpura,Wet,366.55,No,9,May,Friday,5
+2025-05-10,Arera Colony,Dry,303.4,Yes,7,May,Saturday,5
+2025-05-10,Shahpura,Medical,129.0,Yes,1,May,Saturday,5
+2025-05-10,TT Nagar,Wet,154.68,Yes,0,May,Saturday,5
+2025-05-10,Kolar Road,Construction,50.31,Yes,2,May,Saturday,5
+2025-05-10,Bairagarh,Medical,372.62,No,0,May,Saturday,5
+2025-05-10,Govindpura,Wet,116.47,Yes,1,May,Saturday,5
+2025-05-11,Arera Colony,Medical,482.25,No,10,May,Sunday,5
+2025-05-11,Shahpura,Construction,313.71,No,4,May,Sunday,5
+2025-05-11,TT Nagar,Medical,111.4,Yes,6,May,Sunday,5
+2025-05-11,Kolar Road,Construction,342.13,Yes,8,May,Sunday,5
+2025-05-11,Bairagarh,Medical,150.46,Yes,6,May,Sunday,5
+2025-05-11,Govindpura,Medical,380.3,No,2,May,Sunday,5
+2025-05-12,Arera Colony,Dry,377.97,No,9,May,Monday,5
+2025-05-12,Shahpura,Wet,131.94,No,9,May,Monday,5
+2025-05-12,TT Nagar,Dry,337.84,Yes,7,May,Monday,5
+2025-05-12,Kolar Road,Dry,199.03,Yes,3,May,Monday,5
+2025-05-12,Bairagarh,Medical,492.07,Yes,10,May,Monday,5
+2025-05-12,Govindpura,Wet,419.75,No,7,May,Monday,5
+2025-05-13,Arera Colony,Wet,169.35,Yes,1,May,Tuesday,5
+2025-05-13,Shahpura,Medical,165.5,Yes,0,May,Tuesday,5
+2025-05-13,TT Nagar,Wet,223.67,No,2,May,Tuesday,5
+2025-05-13,Kolar Road,Construction,271.89,No,5,May,Tuesday,5
+2025-05-13,Bairagarh,Construction,95.64,No,9,May,Tuesday,5
+2025-05-13,Govindpura,Dry,123.2,Yes,0,May,Tuesday,5
+2025-05-14,Arera Colony,Medical,59.04,No,1,May,Wednesday,5
+2025-05-14,Shahpura,Wet,203.81,No,2,May,Wednesday,5
+2025-05-14,TT Nagar,Wet,296.17,Yes,5,May,Wednesday,5
+2025-05-14,Kolar Road,Construction,367.03,No,10,May,Wednesday,5
+2025-05-14,Bairagarh,Dry,323.29,No,2,May,Wednesday,5
+2025-05-14,Govindpura,Wet,95.57,Yes,3,May,Wednesday,5
+2025-05-15,Arera Colony,Construction,363.74,No,10,May,Thursday,5
+2025-05-15,Shahpura,Medical,183.83,Yes,0,May,Thursday,5
+2025-05-15,TT Nagar,Construction,307.3,No,2,May,Thursday,5
+2025-05-15,Kolar Road,Wet,212.37,No,1,May,Thursday,5
+2025-05-15,Bairagarh,Medical,420.75,No,3,May,Thursday,5
+2025-05-15,Govindpura,Wet,61.58,Yes,10,May,Thursday,5
+2025-05-16,Arera Colony,Medical,489.68,No,1,May,Friday,5
+2025-05-16,Shahpura,Medical,403.19,No,7,May,Friday,5
+2025-05-16,TT Nagar,Medical,91.01,No,2,May,Friday,5
+2025-05-16,Kolar Road,Medical,448.47,No,2,May,Friday,5
+2025-05-16,Bairagarh,Construction,70.08,No,7,May,Friday,5
+2025-05-16,Govindpura,Medical,151.81,No,9,May,Friday,5
+2025-05-17,Arera Colony,Wet,118.01,Yes,1,May,Saturday,5
+2025-05-17,Shahpura,Medical,413.68,No,9,May,Saturday,5
+2025-05-17,TT Nagar,Dry,299.12,No,8,May,Saturday,5
+2025-05-17,Kolar Road,Construction,484.53,No,9,May,Saturday,5
+2025-05-17,Bairagarh,Dry,264.32,Yes,6,May,Saturday,5
+2025-05-17,Govindpura,Wet,275.95,Yes,1,May,Saturday,5
+2025-05-18,Arera Colony,Construction,127.8,Yes,3,May,Sunday,5
+2025-05-18,Shahpura,Dry,106.78,No,1,May,Sunday,5
+2025-05-18,TT Nagar,Construction,140.86,Yes,9,May,Sunday,5
+2025-05-18,Kolar Road,Medical,193.89,Yes,1,May,Sunday,5
+2025-05-18,Bairagarh,Construction,300.36,No,4,May,Sunday,5
+2025-05-18,Govindpura,Construction,462.72,Yes,9,May,Sunday,5
+2025-05-19,Arera Colony,Construction,100.63,Yes,2,May,Monday,5
+2025-05-19,Shahpura,Wet,466.22,Yes,4,May,Monday,5
+2025-05-19,TT Nagar,Medical,445.05,No,6,May,Monday,5
+2025-05-19,Kolar Road,Construction,307.41,No,0,May,Monday,5
+2025-05-19,Bairagarh,Dry,173.94,Yes,9,May,Monday,5
+2025-05-19,Govindpura,Construction,67.45,No,3,May,Monday,5
+2025-05-20,Arera Colony,Wet,385.59,No,5,May,Tuesday,5
+2025-05-20,Shahpura,Wet,202.04,No,4,May,Tuesday,5
+2025-05-20,TT Nagar,Medical,429.28,Yes,3,May,Tuesday,5
+2025-05-20,Kolar Road,Dry,185.22,No,5,May,Tuesday,5
+2025-05-20,Bairagarh,Medical,377.96,Yes,3,May,Tuesday,5
+2025-05-20,Govindpura,Construction,145.13,No,7,May,Tuesday,5
+2025-05-21,Arera Colony,Medical,419.46,Yes,1,May,Wednesday,5
+2025-05-21,Shahpura,Medical,369.31,No,2,May,Wednesday,5
+2025-05-21,TT Nagar,Wet,128.18,Yes,0,May,Wednesday,5
+2025-05-21,Kolar Road,Dry,64.88,Yes,5,May,Wednesday,5
+2025-05-21,Bairagarh,Dry,173.29,No,8,May,Wednesday,5
+2025-05-21,Govindpura,Construction,335.93,Yes,10,May,Wednesday,5
+2025-05-22,Arera Colony,Wet,158.87,No,9,May,Thursday,5
+2025-05-22,Shahpura,Construction,129.91,No,9,May,Thursday,5
+2025-05-22,TT Nagar,Medical,204.91,No,1,May,Thursday,5
+2025-05-22,Kolar Road,Medical,62.35,Yes,2,May,Thursday,5
+2025-05-22,Bairagarh,Dry,435.7,Yes,10,May,Thursday,5
+2025-05-22,Govindpura,Dry,171.09,No,8,May,Thursday,5
+2025-05-23,Arera Colony,Wet,439.08,Yes,7,May,Friday,5
+2025-05-23,Shahpura,Dry,341.32,Yes,3,May,Friday,5
+2025-05-23,TT Nagar,Medical,323.75,No,10,May,Friday,5
+2025-05-23,Kolar Road,Medical,240.71,No,5,May,Friday,5
+2025-05-23,Bairagarh,Construction,163.4,No,4,May,Friday,5
+2025-05-23,Govindpura,Construction,313.02,Yes,8,May,Friday,5
+2025-05-24,Arera Colony,Medical,302.66,No,4,May,Saturday,5
+2025-05-24,Shahpura,Wet,266.78,No,4,May,Saturday,5
+2025-05-24,TT Nagar,Medical,437.67,No,10,May,Saturday,5
+2025-05-24,Kolar Road,Medical,134.76,Yes,0,May,Saturday,5
+2025-05-24,Bairagarh,Construction,347.24,Yes,0,May,Saturday,5
+2025-05-24,Govindpura,Construction,498.86,No,6,May,Saturday,5
+2025-05-25,Arera Colony,Construction,224.72,Yes,9,May,Sunday,5
+2025-05-25,Shahpura,Dry,204.43,Yes,10,May,Sunday,5
+2025-05-25,TT Nagar,Construction,457.94,No,8,May,Sunday,5
+2025-05-25,Kolar Road,Medical,430.44,Yes,4,May,Sunday,5
+2025-05-25,Bairagarh,Wet,261.85,No,8,May,Sunday,5
+2025-05-25,Govindpura,Dry,476.12,No,10,May,Sunday,5
+2025-05-26,Arera Colony,Wet,150.01,Yes,4,May,Monday,5
+2025-05-26,Shahpura,Construction,404.64,No,5,May,Monday,5
+2025-05-26,TT Nagar,Medical,313.51,No,1,May,Monday,5
+2025-05-26,Kolar Road,Construction,74.15,Yes,7,May,Monday,5
+2025-05-26,Bairagarh,Dry,275.21,No,8,May,Monday,5
+2025-05-26,Govindpura,Medical,235.9,Yes,2,May,Monday,5
+2025-05-27,Arera Colony,Dry,204.2,No,2,May,Tuesday,5
+2025-05-27,Shahpura,Medical,438.08,Yes,1,May,Tuesday,5
+2025-05-27,TT Nagar,Construction,199.68,Yes,5,May,Tuesday,5
+2025-05-27,Kolar Road,Wet,52.12,No,3,May,Tuesday,5
+2025-05-27,Bairagarh,Dry,309.33,Yes,7,May,Tuesday,5
+2025-05-27,Govindpura,Wet,108.23,No,10,May,Tuesday,5
+2025-05-28,Arera Colony,Construction,231.53,No,6,May,Wednesday,5
+2025-05-28,Shahpura,Wet,66.98,Yes,5,May,Wednesday,5
+2025-05-28,TT Nagar,Wet,451.4,Yes,0,May,Wednesday,5
+2025-05-28,Kolar Road,Wet,332.01,Yes,3,May,Wednesday,5
+2025-05-28,Bairagarh,Medical,190.44,Yes,6,May,Wednesday,5
+2025-05-28,Govindpura,Medical,125.16,Yes,4,May,Wednesday,5
+2025-05-29,Arera Colony,Medical,255.17,No,6,May,Thursday,5
+2025-05-29,Shahpura,Dry,204.23,No,5,May,Thursday,5
+2025-05-29,TT Nagar,Dry,124.2,No,0,May,Thursday,5
+2025-05-29,Kolar Road,Dry,150.94,Yes,3,May,Thursday,5
+2025-05-29,Bairagarh,Wet,315.36,Yes,1,May,Thursday,5
+2025-05-29,Govindpura,Medical,370.0,Yes,6,May,Thursday,5
+2025-05-30,Arera Colony,Medical,397.06,Yes,9,May,Friday,5
+2025-05-30,Shahpura,Wet,347.89,Yes,0,May,Friday,5
+2025-05-30,TT Nagar,Wet,237.55,No,1,May,Friday,5
+2025-05-30,Kolar Road,Medical,263.48,Yes,3,May,Friday,5
+2025-05-30,Bairagarh,Wet,185.5,Yes,10,May,Friday,5
+2025-05-30,Govindpura,Medical,330.26,Yes,6,May,Friday,5
+2025-05-31,Arera Colony,Wet,280.21,Yes,4,May,Saturday,5
+2025-05-31,Shahpura,Wet,403.14,No,3,May,Saturday,5
+2025-05-31,TT Nagar,Dry,400.08,Yes,5,May,Saturday,5
+2025-05-31,Kolar Road,Construction,182.91,Yes,8,May,Saturday,5
+2025-05-31,Bairagarh,Construction,459.66,No,5,May,Saturday,5
+2025-05-31,Govindpura,Dry,51.23,Yes,1,May,Saturday,5
+2025-06-01,Arera Colony,Construction,117.12,Yes,8,June,Sunday,6
+2025-06-01,Shahpura,Wet,375.6,Yes,4,June,Sunday,6
+2025-06-01,TT Nagar,Dry,255.54,No,4,June,Sunday,6
+2025-06-01,Kolar Road,Construction,72.54,Yes,0,June,Sunday,6
+2025-06-01,Bairagarh,Medical,212.1,No,6,June,Sunday,6
+2025-06-01,Govindpura,Wet,92.75,Yes,0,June,Sunday,6
+2025-06-02,Arera Colony,Dry,348.51,Yes,5,June,Monday,6
+2025-06-02,Shahpura,Medical,452.54,No,1,June,Monday,6
+2025-06-02,TT Nagar,Medical,416.73,Yes,1,June,Monday,6
+2025-06-02,Kolar Road,Construction,230.11,No,4,June,Monday,6
+2025-06-02,Bairagarh,Construction,360.46,No,6,June,Monday,6
+2025-06-02,Govindpura,Dry,100.88,Yes,2,June,Monday,6
+2025-06-03,Arera Colony,Wet,237.21,No,9,June,Tuesday,6
+2025-06-03,Shahpura,Construction,131.57,No,5,June,Tuesday,6
+2025-06-03,TT Nagar,Wet,438.16,Yes,7,June,Tuesday,6
+2025-06-03,Kolar Road,Construction,100.82,No,7,June,Tuesday,6
+2025-06-03,Bairagarh,Wet,78.5,No,0,June,Tuesday,6
+2025-06-03,Govindpura,Dry,490.05,No,8,June,Tuesday,6
+2025-06-04,Arera Colony,Wet,244.78,Yes,7,June,Wednesday,6
+2025-06-04,Shahpura,Medical,348.67,No,2,June,Wednesday,6
+2025-06-04,TT Nagar,Wet,55.24,Yes,8,June,Wednesday,6
+2025-06-04,Kolar Road,Construction,433.34,Yes,1,June,Wednesday,6
+2025-06-04,Bairagarh,Construction,194.29,No,4,June,Wednesday,6
+2025-06-04,Govindpura,Wet,278.12,No,6,June,Wednesday,6
+2025-06-05,Arera Colony,Dry,85.47,No,9,June,Thursday,6
+2025-06-05,Shahpura,Construction,89.61,No,7,June,Thursday,6
+2025-06-05,TT Nagar,Medical,103.42,No,10,June,Thursday,6
+2025-06-05,Kolar Road,Wet,96.19,No,0,June,Thursday,6
+2025-06-05,Bairagarh,Wet,421.66,No,8,June,Thursday,6
+2025-06-05,Govindpura,Dry,344.57,No,5,June,Thursday,6
+2025-06-06,Arera Colony,Medical,421.39,Yes,7,June,Friday,6
+2025-06-06,Shahpura,Medical,302.07,No,10,June,Friday,6
+2025-06-06,TT Nagar,Medical,372.16,Yes,1,June,Friday,6
+2025-06-06,Kolar Road,Dry,50.99,No,10,June,Friday,6
+2025-06-06,Bairagarh,Medical,296.46,No,1,June,Friday,6
+2025-06-06,Govindpura,Wet,453.59,No,2,June,Friday,6
+2025-06-07,Arera Colony,Construction,98.13,Yes,3,June,Saturday,6
+2025-06-07,Shahpura,Wet,468.6,No,3,June,Saturday,6
+2025-06-07,TT Nagar,Construction,421.05,Yes,5,June,Saturday,6
+2025-06-07,Kolar Road,Wet,390.72,Yes,10,June,Saturday,6
+2025-06-07,Bairagarh,Wet,397.47,No,7,June,Saturday,6
+2025-06-07,Govindpura,Dry,483.73,Yes,8,June,Saturday,6
+2025-06-08,Arera Colony,Wet,298.95,No,9,June,Sunday,6
+2025-06-08,Shahpura,Construction,465.97,Yes,9,June,Sunday,6
+2025-06-08,TT Nagar,Dry,378.72,Yes,1,June,Sunday,6
+2025-06-08,Kolar Road,Construction,345.88,No,8,June,Sunday,6
+2025-06-08,Bairagarh,Construction,238.4,Yes,4,June,Sunday,6
+2025-06-08,Govindpura,Construction,483.62,No,7,June,Sunday,6
+2025-06-09,Arera Colony,Dry,112.18,No,8,June,Monday,6
+2025-06-09,Shahpura,Medical,370.34,Yes,3,June,Monday,6
+2025-06-09,TT Nagar,Dry,330.88,No,10,June,Monday,6
+2025-06-09,Kolar Road,Medical,464.54,Yes,10,June,Monday,6
+2025-06-09,Bairagarh,Dry,276.75,No,1,June,Monday,6
+2025-06-09,Govindpura,Medical,303.03,No,10,June,Monday,6
+2025-06-10,Arera Colony,Medical,444.86,No,0,June,Tuesday,6
+2025-06-10,Shahpura,Wet,61.37,Yes,0,June,Tuesday,6
+2025-06-10,TT Nagar,Wet,139.96,Yes,4,June,Tuesday,6
+2025-06-10,Kolar Road,Medical,115.89,Yes,4,June,Tuesday,6
+2025-06-10,Bairagarh,Dry,389.12,Yes,5,June,Tuesday,6
+2025-06-10,Govindpura,Construction,96.12,Yes,10,June,Tuesday,6
+2025-06-11,Arera Colony,Construction,156.92,No,10,June,Wednesday,6
+2025-06-11,Shahpura,Wet,466.92,No,6,June,Wednesday,6
+2025-06-11,TT Nagar,Medical,484.62,Yes,0,June,Wednesday,6
+2025-06-11,Kolar Road,Medical,141.39,No,3,June,Wednesday,6
+2025-06-11,Bairagarh,Medical,389.8,Yes,3,June,Wednesday,6
+2025-06-11,Govindpura,Medical,251.97,Yes,2,June,Wednesday,6
+2025-06-12,Arera Colony,Dry,380.79,Yes,6,June,Thursday,6
+2025-06-12,Shahpura,Wet,242.83,No,2,June,Thursday,6
+2025-06-12,TT Nagar,Dry,312.79,No,0,June,Thursday,6
+2025-06-12,Kolar Road,Medical,259.85,Yes,0,June,Thursday,6
+2025-06-12,Bairagarh,Dry,467.88,Yes,10,June,Thursday,6
+2025-06-12,Govindpura,Medical,270.75,No,1,June,Thursday,6
+2025-06-13,Arera Colony,Medical,286.43,Yes,8,June,Friday,6
+2025-06-13,Shahpura,Wet,403.82,Yes,6,June,Friday,6
+2025-06-13,TT Nagar,Construction,91.38,Yes,3,June,Friday,6
+2025-06-13,Kolar Road,Medical,198.98,No,3,June,Friday,6
+2025-06-13,Bairagarh,Construction,498.48,Yes,1,June,Friday,6
+2025-06-13,Govindpura,Medical,250.55,Yes,0,June,Friday,6
+2025-06-14,Arera Colony,Medical,221.62,Yes,6,June,Saturday,6
+2025-06-14,Shahpura,Medical,293.11,No,0,June,Saturday,6
+2025-06-14,TT Nagar,Medical,281.44,No,7,June,Saturday,6
+2025-06-14,Kolar Road,Wet,183.4,Yes,5,June,Saturday,6
+2025-06-14,Bairagarh,Wet,476.7,Yes,8,June,Saturday,6
+2025-06-14,Govindpura,Wet,332.12,Yes,10,June,Saturday,6
+2025-06-15,Arera Colony,Dry,439.23,No,1,June,Sunday,6
+2025-06-15,Shahpura,Dry,291.99,No,10,June,Sunday,6
+2025-06-15,TT Nagar,Wet,386.1,Yes,0,June,Sunday,6
+2025-06-15,Kolar Road,Construction,372.59,Yes,1,June,Sunday,6
+2025-06-15,Bairagarh,Wet,74.42,No,8,June,Sunday,6
+2025-06-15,Govindpura,Wet,308.73,Yes,4,June,Sunday,6
+2025-06-16,Arera Colony,Construction,224.61,No,6,June,Monday,6
+2025-06-16,Shahpura,Medical,57.6,Yes,8,June,Monday,6
+2025-06-16,TT Nagar,Wet,338.64,Yes,9,June,Monday,6
+2025-06-16,Kolar Road,Wet,365.4,Yes,5,June,Monday,6
+2025-06-16,Bairagarh,Wet,180.43,No,9,June,Monday,6
+2025-06-16,Govindpura,Wet,176.68,No,6,June,Monday,6
+2025-06-17,Arera Colony,Construction,419.96,Yes,7,June,Tuesday,6
+2025-06-17,Shahpura,Dry,290.06,Yes,6,June,Tuesday,6
+2025-06-17,TT Nagar,Medical,482.06,Yes,4,June,Tuesday,6
+2025-06-17,Kolar Road,Medical,480.83,Yes,8,June,Tuesday,6
+2025-06-17,Bairagarh,Dry,105.46,Yes,9,June,Tuesday,6
+2025-06-17,Govindpura,Construction,291.72,Yes,4,June,Tuesday,6
+2025-06-18,Arera Colony,Dry,386.73,No,3,June,Wednesday,6
+2025-06-18,Shahpura,Construction,457.53,Yes,2,June,Wednesday,6
+2025-06-18,TT Nagar,Dry,149.35,No,3,June,Wednesday,6
+2025-06-18,Kolar Road,Wet,131.61,Yes,8,June,Wednesday,6
+2025-06-18,Bairagarh,Construction,340.1,Yes,4,June,Wednesday,6
+2025-06-18,Govindpura,Wet,162.81,Yes,9,June,Wednesday,6
+2025-06-19,Arera Colony,Construction,478.19,No,2,June,Thursday,6
+2025-06-19,Shahpura,Dry,95.02,Yes,3,June,Thursday,6
+2025-06-19,TT Nagar,Medical,268.64,No,9,June,Thursday,6
+2025-06-19,Kolar Road,Medical,362.06,Yes,9,June,Thursday,6
+2025-06-19,Bairagarh,Medical,413.46,No,2,June,Thursday,6
+2025-06-19,Govindpura,Wet,190.95,Yes,10,June,Thursday,6
+2025-06-20,Arera Colony,Construction,174.51,No,2,June,Friday,6
+2025-06-20,Shahpura,Medical,445.05,No,7,June,Friday,6
+2025-06-20,TT Nagar,Medical,398.65,No,8,June,Friday,6
+2025-06-20,Kolar Road,Wet,129.1,Yes,4,June,Friday,6
+2025-06-20,Bairagarh,Dry,451.08,Yes,4,June,Friday,6
+2025-06-20,Govindpura,Wet,377.34,Yes,8,June,Friday,6
+2025-06-21,Arera Colony,Wet,415.69,No,9,June,Saturday,6
+2025-06-21,Shahpura,Dry,457.84,No,8,June,Saturday,6
+2025-06-21,TT Nagar,Construction,344.26,Yes,5,June,Saturday,6
+2025-06-21,Kolar Road,Construction,150.49,No,2,June,Saturday,6
+2025-06-21,Bairagarh,Construction,275.51,Yes,6,June,Saturday,6
+2025-06-21,Govindpura,Medical,275.98,Yes,9,June,Saturday,6
+2025-06-22,Arera Colony,Dry,390.74,Yes,7,June,Sunday,6
+2025-06-22,Shahpura,Dry,130.62,Yes,7,June,Sunday,6
+2025-06-22,TT Nagar,Medical,68.19,No,3,June,Sunday,6
+2025-06-22,Kolar Road,Wet,168.96,Yes,0,June,Sunday,6
+2025-06-22,Bairagarh,Dry,283.05,No,6,June,Sunday,6
+2025-06-22,Govindpura,Construction,463.06,Yes,0,June,Sunday,6
+2025-06-23,Arera Colony,Medical,96.45,No,4,June,Monday,6
+2025-06-23,Shahpura,Dry,219.5,No,5,June,Monday,6
+2025-06-23,TT Nagar,Wet,282.5,No,3,June,Monday,6
+2025-06-23,Kolar Road,Construction,208.8,No,7,June,Monday,6
+2025-06-23,Bairagarh,Construction,449.23,Yes,8,June,Monday,6
+2025-06-23,Govindpura,Dry,247.95,Yes,1,June,Monday,6
+2025-06-24,Arera Colony,Medical,145.18,Yes,2,June,Tuesday,6
+2025-06-24,Shahpura,Medical,320.91,Yes,10,June,Tuesday,6
+2025-06-24,TT Nagar,Dry,236.58,No,1,June,Tuesday,6
+2025-06-24,Kolar Road,Construction,353.85,No,3,June,Tuesday,6
+2025-06-24,Bairagarh,Dry,341.27,No,0,June,Tuesday,6
+2025-06-24,Govindpura,Dry,69.41,Yes,2,June,Tuesday,6
+2025-06-25,Arera Colony,Wet,450.86,Yes,0,June,Wednesday,6
+2025-06-25,Shahpura,Dry,166.22,Yes,8,June,Wednesday,6
+2025-06-25,TT Nagar,Construction,319.71,Yes,10,June,Wednesday,6
+2025-06-25,Kolar Road,Medical,476.26,Yes,7,June,Wednesday,6
+2025-06-25,Bairagarh,Construction,440.29,Yes,3,June,Wednesday,6
+2025-06-25,Govindpura,Construction,320.38,Yes,9,June,Wednesday,6
+2025-06-26,Arera Colony,Medical,125.47,No,7,June,Thursday,6
+2025-06-26,Shahpura,Wet,153.42,No,2,June,Thursday,6
+2025-06-26,TT Nagar,Wet,57.45,No,2,June,Thursday,6
+2025-06-26,Kolar Road,Wet,129.84,Yes,8,June,Thursday,6
+2025-06-26,Bairagarh,Wet,91.94,Yes,9,June,Thursday,6
+2025-06-26,Govindpura,Wet,453.64,No,8,June,Thursday,6
+2025-06-27,Arera Colony,Construction,216.67,Yes,8,June,Friday,6
+2025-06-27,Shahpura,Construction,153.27,No,6,June,Friday,6
+2025-06-27,TT Nagar,Medical,315.07,Yes,6,June,Friday,6
+2025-06-27,Kolar Road,Dry,164.53,Yes,1,June,Friday,6
+2025-06-27,Bairagarh,Medical,319.23,No,4,June,Friday,6
+2025-06-27,Govindpura,Dry,52.46,Yes,9,June,Friday,6
+2025-06-28,Arera Colony,Wet,283.89,No,10,June,Saturday,6
+2025-06-28,Shahpura,Dry,359.5,No,6,June,Saturday,6
+2025-06-28,TT Nagar,Medical,97.96,No,10,June,Saturday,6
+2025-06-28,Kolar Road,Medical,167.59,No,9,June,Saturday,6
+2025-06-28,Bairagarh,Medical,325.35,No,3,June,Saturday,6
+2025-06-28,Govindpura,Construction,298.45,No,2,June,Saturday,6
+2025-06-29,Arera Colony,Medical,301.59,No,4,June,Sunday,6
+2025-06-29,Shahpura,Medical,309.94,No,2,June,Sunday,6
+2025-06-29,TT Nagar,Wet,386.52,No,2,June,Sunday,6
+2025-06-29,Kolar Road,Wet,146.51,No,5,June,Sunday,6
+2025-06-29,Bairagarh,Wet,122.33,Yes,1,June,Sunday,6
+2025-06-29,Govindpura,Dry,262.25,No,1,June,Sunday,6
